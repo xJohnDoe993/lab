@@ -75,7 +75,7 @@ Create a database for the application:
 
 ::
 
- [isabell@stardust html]$ mysql -e "CREATE DATABASE ${USER}_ganico"
+ [isabell@stardust html]$ mysql -e "CREATE DATABASE ${USER}_gancio"
  [isabell@stardust html]$
 
 Configuration
